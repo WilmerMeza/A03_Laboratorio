@@ -1,5 +1,5 @@
 # A03_Laboratorio
-Trabajando con diagramas y relaciones entre tablas de una base de datos Microsoft SQL Server
+- Trabajando con diagramas y relaciones entre tablas de una base de datos Microsoft SQL Server
 
 # OBJETIVO
 1. La creacion de diagramas y establecer las relaciones entre tablas de una base de datos Microsoft SQL Server
