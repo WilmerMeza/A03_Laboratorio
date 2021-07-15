@@ -14,7 +14,7 @@
 
 # 1. AGRADECIMIENTO
 
-#### Prof. Jesus Canales
+#### Prof. Jesùs Canales
 
 - Un gran docente por la capacidad y carisma que entrega en la enseñanza a sus estudiantes.
 
@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/55814963/122269801-3b9bf600-cea3-11eb-9ab3-f6b60974979e.png)
 
 
-### INTRODUCCION
+### INTRODUCCIÒN
 - En este trabajo se realizó un breve taller práctico donde se  desarrolló la creación de una base de datos en Microsoft SQL Server, como la creación de diagramas para establecer las relaciones entre las tablas de la base de datos.
 
 - Para el desarrollo y manejo de la base de datos utilizamos la herramienta  Microsoft SQL Server.
